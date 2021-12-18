@@ -1,0 +1,8 @@
+## Interface: 20400
+## Title: Bag Sort
+## Notes: Sorts the contents of your bags.
+
+## Author: Lebawurscht
+## Version: 2.4.3
+
+Bag_Sort.xml
